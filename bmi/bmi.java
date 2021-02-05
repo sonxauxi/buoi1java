@@ -1,4 +1,4 @@
-package bmi;
+package buoi1java.bmi;
 import java.util.Scanner;
 public class bmi {
     public static void main(String[] args) throws Exception { 
@@ -12,7 +12,7 @@ public class bmi {
 
         BMI = w/Math.pow(h,2 );
         System.out.println("BMI =" +BMI);
-       
+       input.close();
 
     }
 

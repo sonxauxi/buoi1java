@@ -1,4 +1,4 @@
-package tinhlaixuat;
+package buoi1java.tinhlaixuat;
 import java.util.Scanner;
 public class tinhlaixuat {
     
@@ -17,7 +17,7 @@ public class tinhlaixuat {
         System.out.println("Tiền lãi tháng = " + TLT + " VND ");
         System.out.println("Tổng số tiền phải trả hàng tháng = " + MM + " VND ");
        
-
+        input.close();
     }
 
 }
