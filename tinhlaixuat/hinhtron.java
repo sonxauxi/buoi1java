@@ -1,5 +1,5 @@
 package buoi1java.tinhlaixuat;
-public class baibuoi1 {
+public class hinhtron {
     public static void main ( String []args) {
         double r = Math.PI;
         byte R = 5 ;
