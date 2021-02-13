@@ -5,13 +5,9 @@ public class hinhtron {
         byte R = 5 ;
         double C = r*2*R;
         double S = R*R*r;
-        int A = 10;
-        String B = (A%2==0) ? "A = 10 là số chẵn" : "A = 10 là số lẻ";
-        
-
+      
         System.out.println("chuvi = " + C );
         System.out.println("dientich = " + S );
-        System.out.println(B);
 
         int canha = 3;
         int canhb = 4;
